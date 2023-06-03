@@ -1,2 +1,2 @@
 # Grid
-A responsive grid
+Responsive grid
